@@ -35,13 +35,13 @@
  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
-
+</p>
                    
-
+![scorchm4dness' GitHub stats](https://github-readme-stats.vercel.app/api?username=scorchm4dness&theme=tokyonight&show_icons=true)
             
 
         
-</p>
+
 
 
 
