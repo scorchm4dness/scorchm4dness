@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=HOLA&fontAlign=30&fontSize=30&animation=blinking&desc=Welcome%20po!&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=HOLA&fontAlign=30&fontSize=30&animation=blinking&desc=I'm%20Cyrille!&descAlign=60&descAlignY=50&theme=radical)
 
 
 
