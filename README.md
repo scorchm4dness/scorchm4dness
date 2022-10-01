@@ -1,8 +1,8 @@
-<p align="center">
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=HOLA&fontAlign=30&fontSize=30&desc=Welcome%20po!&descAlign=60&descAlignY=50&theme=radical)
 
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 
-</p>
+
+
 
 <a href="https://www.instagram.com/reveeerie_/">
 
