@@ -30,7 +30,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 
-<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
 
           
 
