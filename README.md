@@ -39,7 +39,7 @@
                    
 ![scorchm4dness' GitHub stats](https://github-readme-stats.vercel.app/api?username=scorchm4dness&theme=tokyonight&show_icons=true)
             
-
+![Snake animation](https://github.com/scorchm4dness/scorchm4dness/blob/output/github-contribution-grid-snake.svg)
         
 
 
