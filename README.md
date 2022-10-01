@@ -1,9 +1,9 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=HOLA&fontAlign=30&fontSize=30&desc=Welcome%20po!&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=HOLA&fontAlign=30&fontSize=30&animation=blinking&desc=Welcome%20po!&descAlign=60&descAlignY=50&theme=radical)
 
 
 
 
-
+<p align="center">
 <a href="https://www.instagram.com/reveeerie_/">
 
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
@@ -14,6 +14,7 @@
 <img height= "50" src="https://www.iconfinder.com/icons/5365678/fb_facebook_facebook_logo_icon/">
 
 </a>
+</p>
 <p align="center">
 <img height= "250" width="350" src="https://media.giphy.com/media/pbcJfes1vGIMM/giphy.gif">
 </p>
