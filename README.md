@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 
 </p>
+<img height= "100" width="100" src="https://media.giphy.com/media/pbcJfes1vGIMM/giphy.gif">
 
 <a href="https://www.instagram.com/reveeerie_/">
 
