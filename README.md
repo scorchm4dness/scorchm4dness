@@ -16,8 +16,10 @@
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />
 </a>
           
-
-
+<a href="https://www.twitter.com/NyralleHoran/">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+</a>
+          
 
 
 </p>
